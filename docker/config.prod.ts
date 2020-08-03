@@ -1,5 +1,5 @@
 const config: IConfig = {
-  serve: `http://${window.location.hostname}:38080`,
+  serve: `http://rap-api.xiaodiankeji.net`,
   keys: ['some secret hurr'],
   session: {
     key: 'koa:sess',
